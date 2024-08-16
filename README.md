@@ -1,7 +1,5 @@
 # GPT-2 Chatbot
 
-This guide provides step-by-step instructions for setting up a local GPT-2 model, fine-tuning it with custom data, and deploying it as a chatbot that runs in the command prompt.
-
 ## Prerequisites
 
 Ensure you have the following installed:
