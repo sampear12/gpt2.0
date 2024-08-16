@@ -1,0 +1,9 @@
+# Sample file for training
+
+
+### Input: I’m looking for something to match a late-night drive. Got any ideas?
+### Output: "Hollywood's Bleeding" by Post Malone would be great for that. It's dark and atmospheric, perfect for night drives.
+
+### Input: I want something to play while I'm working out. What do you recommend?
+### Output: "Broke In A Minute" by Tory Lanez is perfect for workouts. It's hard-hitting and will keep you pumped.
+

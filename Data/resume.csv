@@ -1,0 +1,94 @@
+Section,Subsection,Detail
+Personal Information,Name,Samika Sanghvi
+Personal Information,Email,sps76@pitt.edu
+Personal Information,Phone,412-651-2512
+Personal Information,Location,Pittsburgh, PA 15213
+Personal Information,LinkedIn,https://in.linkedin.com/in/samika-sanghvi-941a3323b
+
+Education,Institution,"University of Pittsburgh, Pittsburgh, PA"
+Education,Graduation Date,"May 2025"
+Education,Degree,"Bachelors of Science - Computer Science"
+Education,GPA,"Current GPA: 4.00 | Cumulative GPA: 3.44"
+Education,Coursework,"Data Structures and Algorithms in Java, Systems Software, Digital Privacy, Operating Systems, Artificial Intelligence, Database Management"
+Education,Awards,"Dean’s List Fall ‘23, Spring ‘24"
+
+Skills,Programming Languages,"Java, C, Assembly, Python, HTML/CSS, JavaScript, C#"
+Skills,Tools,"GitHub, Atlassian Toolset (JIRA, Bitbucket, Confluence), AWS Cloud Computing, IAPs, Appium and Selenium, ROS"
+Skills,Development Processes,"Agile Software Development, Scrum, Test Automation, Functional and Regression Testing"
+Skills,Database Management,"SQL, PostgreSQL"
+Skills,Software Tools,"Microsoft Visual Studio, Eclipse, IntelliJ, Logisim, Arduino, Figma"
+Skills,Platforms/Frameworks,"Android, Bootstrap, Flask, Sphinx, ROS"
+
+Work Experience,Job Title,"Test Engineering Intern"
+Work Experience,Company,"Honeywell, Pittsburgh, PA"
+Work Experience,Duration,"May 2023 - August 2023"
+Work Experience,Responsibilities,"Identified and resolved two major bugs in the embedded Android voice-enabled application before the version release."
+Work Experience,Responsibilities,"Designed and implemented a web-based interface for test automation tools using CSS, HTML, Python, and Flask."
+Work Experience,Responsibilities,"Authored and enhanced API documentation for a proprietary test automation framework in Python using Sphinx."
+Work Experience,Responsibilities,"Actively participated in the Agile/Scrum Software Development process, contributing to Sprint Planning, Standups, and Sprint Reviews."
+Work Experience,Achievements,"Successfully pushed crucial fixes that prevented potential delays in the project timeline."
+
+Work Experience,Job Title,"Undergraduate Teaching Assistant"
+Work Experience,Company,"University of Pittsburgh, Pittsburgh, PA"
+Work Experience,Duration,"2023 - 2024"
+Work Experience,Responsibilities,"Facilitated weekly recitation sessions, assisting students with course content in CS0445 Algorithms and Data Structures & CS0401 Intermediate Programming in Java."
+Work Experience,Responsibilities,"Developed quizzes and mock exams to aid student preparation for midterms and finals."
+Work Experience,Responsibilities,"Provided one-on-one support during office hours, helping students with assignments and conceptual understanding."
+Work Experience,Responsibilities,"Graded assignments and provided constructive feedback to improve student performance."
+
+Work Experience,Job Title,"Website Development Intern"
+Work Experience,Company,"YouthPlaces, Pittsburgh, PA"
+Work Experience,Duration,"January 2023 - May 2023"
+Work Experience,Responsibilities,"Enhanced the organization's website by integrating features to monitor web traffic and digital risk rates using HTML and JavaScript."
+Work Experience,Responsibilities,"Added real-time event tracking and donation features using Bootstrap, Flask, Sphinx, and WordPress."
+Work Experience,Achievements,"Improved website user engagement by 30% through UI/UX enhancements and additional interactive features."
+
+Extracurricular Activities,Title,"Founder and CEO"
+Extracurricular Activities,Organization,"Solstis, Pittsburgh, PA"
+Extracurricular Activities,Duration,"May 2023 - Present"
+Extracurricular Activities,Responsibilities,"Leading a team of 8 in developing an AI and cloud-driven platform to promote collaboration among early-stage startups."
+Extracurricular Activities,Achievements,"Secured membership in Microsoft's Founder's Hub and advanced to the semi-finals of the Pitt Big Idea's Competition."
+Extracurricular Activities,Achievements,"Received incubation support from Carnegie Mellon University."
+
+Extracurricular Activities,Title,"Founder"
+Extracurricular Activities,Organization,"AkimasBakingCo, Pune, India"
+Extracurricular Activities,Duration,"2020 - 2022"
+Extracurricular Activities,Responsibilities,"Established and managed a bakery business that provided within-the-hour deliveries during COVID-19 through effective website management and marketing strategies."
+Extracurricular Activities,Achievements,"Achieved an annualized ROI of 123.61% and increased net profit by 75% within the first three months."
+Extracurricular Activities,Achievements,"Donated over 150,000 INR (~$1,842) to support underprivileged women battling breast cancer, earning the 'Woman of Inspiration – 2020' award."
+
+Extracurricular Activities,Title,"Vice-President"
+Extracurricular Activities,Organization,"Women in Computer Science (WICS), Pittsburgh, PA"
+Extracurricular Activities,Duration,"2023 - Present"
+Extracurricular Activities,Responsibilities,"Organized technical workshops and networking events, introducing Fortune 100 sponsors to underrepresented student communities."
+Extracurricular Activities,Achievements,"Increased member participation by 50% through strategic event planning and inclusive community-building efforts."
+
+Extracurricular Activities,Title,"President"
+Extracurricular Activities,Organization,"Lothrop Hall Council, Pittsburgh, PA"
+Extracurricular Activities,Duration,"2022 - 2023"
+Extracurricular Activities,Responsibilities,"Led a council of students and resident assistants in organizing bi-weekly events for over 600 student residents."
+Extracurricular Activities,Achievements,"Successfully increased event attendance and engagement among residents, fostering a stronger community within the dormitory."
+
+Extracurricular Activities,Title,"Club Member"
+Extracurricular Activities,Organization,"Pitt FSAE Panther Racing, Pittsburgh, PA"
+Extracurricular Activities,Duration,"2022 - Present"
+Extracurricular Activities,Responsibilities,"Worked on converting sensory signals to assembly language using ROS and Arduino for a life-size intended F1 car."
+Extracurricular Activities,Achievements,"Completed coursework on ROS, Linux, and Optimization Theory to prepare the vehicle for competition."
+
+Extracurricular Activities,Title,"Participant"
+Extracurricular Activities,Organization,"SheInnovates Hackathon, Pittsburgh, PA"
+Extracurricular Activities,Duration,"2023"
+Extracurricular Activities,Responsibilities,"Developed an application for OCD therapy with integrated sensors using HTML, Python, and Figma."
+Extracurricular Activities,Achievements,"Collaborated with a team to create a functional prototype within the 48-hour hackathon period."
+
+Projects,Title,"Triathlon Location Determination"
+Projects,Language,"Python"
+Projects,Description,"Utilized Python to process data files from the WPRDC website, performing data analysis and visualizing the results through generated graphs."
+
+Projects,Title,"Autocomplete System"
+Projects,Language,"Java"
+Projects,Description,"Developed an autocomplete system that provided word predictions while typing, similar to the functionality in iOS keyboards."
+
+Projects,Title,"Custom Unix Shell"
+Projects,Language,"C"
+Projects,Description,"Implemented a custom shell in C with built-in commands (exit, cd, etc.), handling user input and executing commands in a Unix environment."
