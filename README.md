@@ -50,6 +50,7 @@ Prepare your dataset in JSON format where each entry contains an input and an ou
 }
 ```
 Save this file as data.json in the root directory of the repository or modify the one already present.
+Remember, fine-tuning a model takes a lot of data. If you want to fine-tune the model to something specific like your reume, you will need to create and train the model on that dataset. I have excluded the data I trained it on for privacy purposes.
 
 5. **Fine-Tune the model**
    
