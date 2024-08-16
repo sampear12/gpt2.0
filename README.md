@@ -13,12 +13,14 @@ Ensure you have the following installed:
 ## Setup Instructions
 
 1. **Clone the Repository**
+   
 
    ```bash
    git clone <repository-url>
    cd <repository-directory>
 
-2. **Create and Activate a Virtual Environment**
+3. **Create and Activate a Virtual Environment**
+   
 Using conda:
 ```bash
 conda create -n gpt2_chatbot python=3.8
@@ -30,13 +32,15 @@ python -m venv gpt2_chatbot_env
 source gpt2_chatbot_env/bin/activate  # On Windows use: gpt2_chatbot_env\Scripts\activate
 ```
 
-3. **Install Required Libraries** 
+3. **Install Required Libraries**
+   
 Install the necessary Python libraries using pip:
 ```bash
 pip install torch transformers datasets
 ```
 
 4. **Prepare Your Dataset**
+   
 Prepare Your Dataset
 Prepare your dataset in JSON format where each entry contains an input and an output. For example:
 ```json
@@ -48,6 +52,7 @@ Prepare your dataset in JSON format where each entry contains an input and an ou
 Save this file as data.json in the root directory of the repository or modify the one already present.
 
 5. **Fine-Tune the model**
+   
 Run the fine_tune.py script to fine-tune the GPT-2 model on your custom dataset:
 
 ```bash
@@ -70,7 +75,8 @@ This script will:
 
 Then you can start chatting with the model!
 
-**Notes**
+## Notes
+
 -Ensure your GPU drivers are up to date if you plan to use GPU acceleration.
 -Modify the fine_tune.py script's training parameters as needed for your dataset.
 
